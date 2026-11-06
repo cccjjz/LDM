@@ -1,0 +1,8 @@
+attribute_combination,huawei_apps,google_play_apps
+Build.MODEL,3,0
+Build.MODEL + Build.BRAND,3,1
+Build.MODEL + android_id,70,11
+Build.MODEL + android_id + Build.VERSION.SDK_INT,2,0
+Build.MODEL + android_id + Build.BRAND,1,1
+Build.MODEL + IMEI + System-level attributes,0,39
+Total,79,52

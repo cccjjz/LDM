@@ -1,0 +1,4 @@
+defense_mechanism,apps,percent_of_95_apps
+Use of multiple dynamic or hard-to-clone device signals,39,41.1
+Server-side regeneration of device/session identity,34,35.8
+Enforced single active login session,22,23.2

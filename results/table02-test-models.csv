@@ -1,0 +1,6 @@
+method,precision_percent,recall_percent,f1_percent,accuracy_percent,tp,fp,fn,tn
+Keyword matching (baseline),55,78.57,64.71,80,11,9,3,37
+Qwen3-Max,85.71,85.71,85.71,93.33,12,2,2,44
+DeepSeek-v4-pro,100,64.29,78.26,91.67,9,0,5,46
+Claude-sonnet-5,90.91,71.43,80,91.67,10,1,4,45
+GPT-5.5,100,71.43,83.33,93.33,10,0,4,46

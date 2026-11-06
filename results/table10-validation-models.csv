@@ -1,0 +1,5 @@
+method,precision_percent,recall_percent,f1_percent,accuracy_percent,tp,fp,fn,tn
+Qwen3-Max,84.21,85.71,84.96,92.92,48,9,8,175
+DeepSeek-v4-pro,88.24,80.36,84.11,92.92,45,6,11,178
+Claude-sonnet-5,93.75,80.36,86.54,94.17,45,3,11,181
+GPT-5.5,82.46,83.93,83.19,92.08,47,10,9,174

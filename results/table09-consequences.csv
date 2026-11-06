@@ -1,0 +1,5 @@
+attack_scenario,consequence,apps
+1,Paid Service Abuse,8
+2,Stealthy Device Spoofing,131
+2,False Device Trust,22
+2,Forced Session Eviction,124
